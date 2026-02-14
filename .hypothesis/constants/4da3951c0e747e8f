@@ -1,0 +1,4 @@
+# file: C:\Users\nimba\OneDrive\Documents\AI For Bharat\jeevanfit\analyzers\__init__.py
+# hypothesis_version: 6.151.6
+
+['BodyTypeAnalyzer', 'BodyTypeInsight', 'FSIParameters', 'FoodCategory', 'FoodClassification', 'FoodClassifier', 'ImpactType', 'MetabolicProfile', 'MetabolicRate', 'NutritionalNeeds', 'Recommendation', 'RetentionFactor', 'RetentionFactorType', 'RetentionLevel', 'RetentionPrediction', 'SleepAnalysis', 'SleepAnalyzer', 'SleepCorrelation', 'SleepDisruptor', 'SleepDisruptorType', 'SleepQuality']

@@ -1,0 +1,4 @@
+# file: C:\Users\nimba\AppData\Roaming\Python\Python311\site-packages\coverage\data.py
+# hypothesis_version: 6.151.6
+
+['-journal', '.*', 'No data to combine', 'No usable data files', 'dataio', 'rb', 'sha3_256']

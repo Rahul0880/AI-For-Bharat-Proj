@@ -1,0 +1,4 @@
+# file: C:\Users\nimba\OneDrive\Documents\AI For Bharat\jeevanfit\analyzers\__init__.py
+# hypothesis_version: 6.151.6
+
+['FSIParameters', 'FoodCategory', 'FoodClassification', 'FoodClassifier']

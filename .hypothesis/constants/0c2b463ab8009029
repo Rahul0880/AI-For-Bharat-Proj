@@ -1,0 +1,4 @@
+# file: C:\Users\nimba\AppData\Roaming\Python\Python311\site-packages\pyreadline3\logger\__init__.py
+# hypothesis_version: 6.151.6
+
+['log', 'start_file_log', 'start_socket_log', 'stop_file_log', 'stop_logging', 'stop_socket_log']

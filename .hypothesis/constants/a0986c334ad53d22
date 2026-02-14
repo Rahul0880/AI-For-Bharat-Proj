@@ -1,0 +1,4 @@
+# file: C:\Users\nimba\OneDrive\Documents\AI For Bharat\jeevanfit\analyzers\trend_analyzer.py
+# hypothesis_version: 6.151.6
+
+[0.0, 0.1, 0.3, 0.7, 50.0, 95.0, 100.0, 100, 'Detected patterns', 'First metric name', 'Metric name', 'Name of the metric', 'Potential causes', 'Second metric name', 'Significant changes', 'Size of the change', 'Visualization data', 'caffeine', 'cyclical', 'decreased', 'decreasing', 'energy', 'food_quality', 'increased', 'increasing', 'likely', 'line', 'moderate', 'negative', 'positive', 'possible', 'sleep_quality', 'sodium', 'stable', 'stress', 'strong', 'unlikely', 'water_intake', 'water_retention']

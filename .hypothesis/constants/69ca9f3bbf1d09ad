@@ -1,0 +1,4 @@
+# file: C:\Users\nimba\OneDrive\Documents\AI For Bharat\jeevanfit\analyzers\body_type_analyzer.py
+# hypothesis_version: 6.151.6
+
+[20.0, 25.0, 30.0, 35.0, 40.0, 55.0, 100, 200, 2000, 2500, 'Base metabolic rate', 'HIGH', 'MEDIUM', 'Recommended action', 'fast', 'moderate', 'slow']

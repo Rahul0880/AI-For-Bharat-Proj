@@ -1,0 +1,4 @@
+# file: C:\Users\nimba\AppData\Roaming\Python\Python311\site-packages\pyreadline3\console\event.py
+# hypothesis_version: 6.151.6
+
+['%s state=%x', '%s w=%d h=%d', '?', 'A', 'Button', 'Configure', 'FocusIn', 'FocusOut', 'KeyPress', 'KeyRelease', 'Menu', 'Motion', 'unknown event type']

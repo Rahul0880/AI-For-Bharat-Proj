@@ -1,0 +1,4 @@
+# file: C:\Users\nimba\AppData\Roaming\Python\Python311\site-packages\_pytest\setupplan.py
+# hypothesis_version: 6.151.6
+
+['--setup-plan', '--setupplan', 'debugconfig', 'store_true']

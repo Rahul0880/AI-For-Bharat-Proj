@@ -1,0 +1,4 @@
+# file: C:\Users\nimba\OneDrive\Documents\AI For Bharat\jeevanfit\analyzers\food_classifier.py
+# hypothesis_version: 6.151.6
+
+[0.0, 0.075, 0.15, 0.2, 0.3, 0.4, 0.6, 0.7, 0.8, 1.0, 4.0, 5.0, 30.0, 60.0, 95.0, 1000.0, 100, 600, ', ', 'fiber', 'good fiber content', 'healthy', 'high_processing', 'high_sodium', 'high_sugar', 'highly processed', 'junk', 'low_nutrients', 'low_processing', 'minimal processing', 'no preservatives', 'no_preservatives', 'nutrient_density', 'overall_composition', 'preservative_heavy', 'preservatives']

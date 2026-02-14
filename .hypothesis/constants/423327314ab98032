@@ -1,0 +1,4 @@
+# file: C:\Users\nimba\AppData\Roaming\Python\Python311\site-packages\coverage\annotate.py
+# hypothesis_version: 6.151.6
+
+['! ', ',cover', '- ', '.py', '> ', '\\s*(#|$)', '\\s*else\\s*:\\s*(#|$)', '_py', 'utf-8', 'w']

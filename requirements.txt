@@ -1,0 +1,15 @@
+# JeevanFit Lifestyle Assistant Dependencies
+
+# Data validation and models
+pydantic>=2.0.0
+
+# Testing frameworks
+pytest>=7.4.0
+hypothesis>=6.82.0
+
+# Security and encryption
+cryptography>=41.0.0
+
+# Optional: for future API development
+# fastapi>=0.100.0
+# uvicorn>=0.23.0

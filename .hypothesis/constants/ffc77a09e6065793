@@ -1,0 +1,4 @@
+# file: C:\Users\nimba\OneDrive\Documents\AI For Bharat\jeevanfit\validators\input_validator.py
+# hypothesis_version: 6.151.6
+
+[200, 500, 5000, '(\\|\\||&&|;|\\$\\()', '.', 'calories', 'carbohydrates', 'correct type', 'daily_habits', 'duration', 'fat', 'fiber', 'food_items', 'general', 'greater_than', 'intensity', 'javascript:', 'less_than', 'loc', 'missing', 'msg', 'name', 'notes', 'nutritional_info', 'on\\w+\\s*=', 'preservatives', 'processing_level', 'protein', 'serving_size', 'sleep_data', 'sleep_data.duration', 'sodium', 'sugar', 'timestamp', 'type', 'type_error', 'user_id', 'value_error', 'water_intake', '|']
