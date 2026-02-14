@@ -3,7 +3,7 @@ AI lifestyle assistant that explains how food, sleep, and daily habits affect th
 
 
 
-# JeevanFit – AI for Bharat Project
+# JeevanFit 
 
 JeevanFit is an AI lifestyle assistant that helps users understand how food, hydration, sleep, and daily habits affect their body.
 
